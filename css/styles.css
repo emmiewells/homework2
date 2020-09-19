@@ -1,6 +1,6 @@
 * {
 	font-family: 'Lucida Grande', sans-serif;
-	color: #FFFFFF;
+	color: #ffffff;
 	background: #000000;
 }
 
@@ -37,16 +37,16 @@ div {
 }
 
 #red {
-	background-color: #FF0000; 
+	background-color: #ff0000; 
 	text-align: right; 
 }
 
 #blue {
-	background-color: #0000FF;
+	background-color: #0000ff;
 }
 
 #yellow {
-	background-color: #FFFF00;
+	background-color: #ffff00;
 	text-align: right;
 }
 
